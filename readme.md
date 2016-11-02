@@ -6,7 +6,7 @@
 
 ## How to use
 
-```json
+```javascript
 module: {
     rules: [
       { 
