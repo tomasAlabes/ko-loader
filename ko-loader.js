@@ -2,5 +2,5 @@
 
 module.exports = function(source) {
   this.cacheable();
-  return source.replace('window["jQuery"]', 'require("jquery")');
+  return source.replace('window["jQuery"]', 'require("jquery")').replace("window['jQuery']", 'require("jquery")');
 };
