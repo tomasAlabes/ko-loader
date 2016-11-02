@@ -1,0 +1,25 @@
+{
+  "name": "ko-loader",
+  "version": "1.0.0",
+  "description": "Knockout-Webpack loader to replace global jquery references for amd calls",
+  "author": {
+    "name": "Tomas Alabes"
+  },
+  "main": "ko-loader.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [
+    "webpack",
+    "loader",
+    "webpack-loader",
+    "knockout"
+  ],
+  "repository": {
+    "url": "https://github.com/tomasAlabes/ko-loader",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomasAlabes/ko-loader/issues"
+  }
+}
