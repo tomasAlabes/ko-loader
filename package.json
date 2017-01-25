@@ -21,5 +21,8 @@
   },
   "bugs": {
     "url": "https://github.com/tomasAlabes/ko-loader/issues"
+  },
+  "peerDependencies":{
+    "webpack": "2.2.0"
   }
 }
