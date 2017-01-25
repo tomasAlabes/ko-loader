@@ -23,6 +23,6 @@
     "url": "https://github.com/tomasAlabes/ko-loader/issues"
   },
   "peerDependencies":{
-    "webpack": "2.2.0"
+    "webpack": ">= 2.0.0"
   }
 }
